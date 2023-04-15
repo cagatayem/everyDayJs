@@ -6,6 +6,4 @@ I am creating JavaScript cheat sheets with the most important concepts. You can 
 # Interesting part of JavaScript (expressions) ? ![erpressions](https://user-images.githubusercontent.com/128289218/229232643-cf19e43f-a611-4a1c-9748-ec5ffc7e519d.png)
 # Data types in Js ?![data types in js](https://user-images.githubusercontent.com/128289218/229313972-670dd18a-80f8-47e0-b48f-cf34ba2c66f6.png)
 # Truthy and Falsy numbers in JavaScript ? ![Truthy and Falsy numbers in JavaScript](https://user-images.githubusercontent.com/128289218/229937564-e0fe640e-9b5d-47a1-a633-68ca16c112dc.png)
-# Methods which mutate the original array in JavaScript ?
-
-
+# Methods which mutate the original array in JavaScript ? ![methods](https://user-images.githubusercontent.com/128289218/232258061-24ec276f-3d49-4fbf-96af-7540e53e807d.png)
